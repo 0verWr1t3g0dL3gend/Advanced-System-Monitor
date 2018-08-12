@@ -20,7 +20,6 @@ typedef DWORD RETURN_STATUS;
 
 #endif
 
-
 /* CreateDriverService: Create a service for registering a driver */
 /* PARAMETERS */
 // szDriverName:            A null terminated string indicating the name of the driver to register.
