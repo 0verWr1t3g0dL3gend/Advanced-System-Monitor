@@ -1,2 +1,6 @@
 # Advanced-System-Monitor
-in ring 0
+Advanced system monitor in kernel mode, with user interface, it shows you those characteristics:
+1-
+2-
+3-
+...
